@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CMaisonet
+- 👋 Hi, I’m @Ina
 - 👀 I’m interested in ...Development
 - 🌱 I’m currently learning ... Front End Development
 - 💞️ I’m looking to collaborate on ...Anything I can
